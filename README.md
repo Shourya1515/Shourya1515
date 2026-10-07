@@ -38,7 +38,7 @@ M.S. Robotics (ECE) at Northeastern University (May 2027) · B.Tech Mechanical E
 
 ### Experience
 
-- **Master’s project — Morpho-GS-SLAM**, Northeastern University (May 2026 – present): 3D Gaussian Splatting SLAM for the Caltech M4 morphobot.
+- **Ongoing project — Morpho-GS-SLAM**, Northeastern University (May 2026 – present): 3D Gaussian Splatting SLAM for the Caltech M4 morphobot.
 - **Robotics Intern — 9th Pixel**, Hyderabad (Sep – Nov 2024): Unitree Go2 with a Hesai XT-16 LiDAR on ROS 2; RTAB-Map vs. LIO-SAM benchmarking.
 - **Robotics Intern — Kitolit**, Tokyo (Jun – Aug 2024): three sensing and perception prototypes in ten weeks; two reached customer pilots.
 
